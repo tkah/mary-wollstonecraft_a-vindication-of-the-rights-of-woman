@@ -40,37 +40,42 @@
 		<meta property="term" refines="#subject-3">sh2008113654</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2010119020</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">An early work of feminist philiosophy arguing for equal treatment of women in society, especially in matters of education.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<a href="https://standardebooks.org/ebooks/mary-wollstonecraft">Mary Wollstonecraft</a> argues for the equal treatment of women in society. Her argument touches on many topics, though she focuses extensively on the needs of educating women the same as men. She argues against either sex viewing women as mere ornamentation and advocates the benefits to society of women liberated and therefore capable of substantive contributions to it.
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3420</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/avindicationrig03wollgoog</dc:source>
+		<dc:source>https://hdl.handle.net/2027/nnc2.ark:/13960/t6xx37b90</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Woman</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mary-wollstonecraft_a-vindication-of-the-rights-of-woman</meta>
 		<dc:creator id="author">Mary Wollstonecraft</dc:creator>
 		<meta property="file-as" refines="#author">Wollstonecraft, Mary</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mary_Wollstonecraft</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n78095613.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John Opie</dc:contributor>
+		<meta property="file-as" refines="#artist">Opie, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Opie</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/nr91026286.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Sue Asscher</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Asscher, Sue</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-22">Col Choat</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Choat, Col</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Amy E Zelmer</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Zelmer, Amy E</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Torran Kahleck</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Kahleck, Torran</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://torrankahleck.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
