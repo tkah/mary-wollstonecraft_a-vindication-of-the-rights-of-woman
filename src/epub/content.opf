@@ -43,9 +43,7 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">An early work of feminist philiosophy arguing for equal treatment of women in society, especially in matters of education.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			<a href="https://standardebooks.org/ebooks/mary-wollstonecraft">Mary Wollstonecraft</a> argues for the equal treatment of women in society. Her argument touches on many topics, though she focuses extensively on the needs of educating women the same as men. She argues against either sex viewing women as mere ornamentation and advocates the benefits to society of women liberated and therefore capable of more substantive contributions to it.
-		</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">&lt;a href="https://standardebooks.org/ebooks/mary-wollstonecraft"&gt;Mary Wollstonecraft&lt;/a&gt; argues for the equal treatment of women in society. Her argument touches on many topics, though she focuses extensively on the needs of educating women the same as men. She argues against either sex viewing women as mere ornamentation and advocates the benefits to society of women liberated and therefore capable of more substantive contributions to it.</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3420</dc:source>
 		<dc:source>https://archive.org/details/avindicationrig03wollgoog</dc:source>
