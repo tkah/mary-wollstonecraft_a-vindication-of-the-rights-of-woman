@@ -71,8 +71,8 @@
 		<dc:contributor id="transcriber-2">Col Choat</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Choat, Col</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Amy E Zelmer</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Zelmer, Amy E</meta>
+		<dc:contributor id="transcriber-3">Amy E. Zelmer</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Zelmer, Amy E.</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Torran Kahleck</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Kahleck, Torran</meta>
