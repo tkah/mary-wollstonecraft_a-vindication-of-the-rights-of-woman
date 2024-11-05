@@ -40,3 +40,9 @@ footer{
 	font-variant: small-caps;
 }
 /* End Letter */
+
+[epub|type~="z3998:subchapter"] header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
